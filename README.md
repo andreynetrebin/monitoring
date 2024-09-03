@@ -1,6 +1,6 @@
 # Monitoring
 
-Приложение для мониторинга обработки технологических процессов.
+Приложение для мониторинга обработки данных в технологических процессах.
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ Python, Dash
 -уведомление
 ![Notify](https://github.com/user-attachments/assets/ee382632-cc7e-4785-b01f-bfb23c2ca4a3)
 
--Дашборд
+-дашборд
 ![Dashboard](https://github.com/user-attachments/assets/177ab0c3-024a-4937-93d6-cec505918a13)
 
 ## Acknowledgements
